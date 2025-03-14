@@ -216,3 +216,7 @@ nav.black .nav-link:hover {
   width: 100% !important;
   height: 300px !important;
 }
+.intro h3 {
+  font-size: 30px;
+  margin-top: 70px;
+}
